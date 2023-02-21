@@ -1,11 +1,12 @@
-"skills_of_junior_QA":
-
-{               "SQL",
-                "Postman",
-                "Git",
-                "Client_server_arhitecture",
-                "Theory_of_testing",
-                "Testing_documentation",
-                "Mobile_testing",
-                "Terminal"
+{
+  "skills_of_junior_QA": {
+                "1": "SQL",
+                "2": "Postman",
+                "3": "Git",
+                "4": "Client_server_arhitecture",
+                "5": "Theory_of_testing",
+                "6": "Testing_documentation",
+                "7": "Mobile_testing",
+                "8": "Terminal"
+}
 }
