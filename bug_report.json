@@ -1,0 +1,12 @@
+ID: 123
+Title: Что? Где? Когда?
+Version: 1.2.19
+Severity: Trivial
+Priority: Low
+Precondition: Steps
+Environment: Devices, Browser
+STR: Steps to reproduce
+ER: Expected result
+AR: Actual Result
+Attachments: links
+
